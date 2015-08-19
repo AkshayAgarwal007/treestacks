@@ -1,3 +1,3 @@
-# treestacks
-What are you doing?
-Hi Whats Up!!
+# TreeStacks
+
+A course/educational videos listing web app.
